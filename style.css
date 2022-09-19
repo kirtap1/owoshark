@@ -1,0 +1,22 @@
+@font-face {
+  src:url("friz.otf");
+  font-family: friz;
+}
+
+body {
+  background-color: rgb(240, 239, 229);
+  overflow: hidden;
+}
+
+#header {
+  font-size: 40px;
+  font-family: friz;
+  text-align: center;
+}
+
+#shark {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  cursor: pointer;
+}
